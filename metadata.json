@@ -1,0 +1,6 @@
+{
+  "name": "Ashen Oath",
+  "description": "A brutal 3D platform adventure fighting story mode set in the ruined Obsidian Keep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
